@@ -20,6 +20,9 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 </a>
 </p>
 
+<!--h2 align="center">Weekly Top Languages</h2>
+<p-- align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juletxara&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly%20Top%20Languages" alt="Weekly Top Languages" /></a></p-->
+
 
 ## 🏆 GitHub Trophies
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Madhxavvv&column=3&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
