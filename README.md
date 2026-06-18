@@ -13,6 +13,8 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 ![](https://github-readme-stats.vercel.app/api?username=Madhxavvv&show_icons=true&count_private=true&theme=tokyonight)<br/>
 ![](https://streak-stats.demolab.com/?user=Madhxavvv&theme=dark&hide_border=false&cache_seconds=1800)<br/>
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Madhxavvv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Madhxavvv&column=3&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
@@ -23,7 +25,9 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Madhxavvv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+
+
 ---
 [![](https://komarev.com/ghpvc/?username=Madhxavvv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
