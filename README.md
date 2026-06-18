@@ -12,12 +12,17 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Madhxavvv&show_icons=true&count_private=true&theme=tokyonight)<br/>
 ![](https://streak-stats.demolab.com/?user=Madhxavvv&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhxavvv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">Top Languages</h2>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
+<img src="./profile/top-langs.svg" alt="Top Languages">
+</a>
+</p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Madhxavvv&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Madhxavvv&theme=onedark)](https://github.com/Madhxavvv/github-profile-trophy)
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Madhxavvv&column=3&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
