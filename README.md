@@ -29,5 +29,5 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Madhxavvv&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Madhxavvv)
 
