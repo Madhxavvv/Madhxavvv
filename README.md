@@ -1,7 +1,7 @@
 # 💫 About Me:
 B.Tech AIML Student | Learning C, C++, DSA & Python | Aspiring AI/ML Engineer
 
-Pinned Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARNING
+Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARNING
 
 
 ## 🌐 Socials:
