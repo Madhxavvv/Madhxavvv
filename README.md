@@ -8,9 +8,10 @@ B.Tech AIML Student | Learning C, C++, DSA & Python | Aspiring AI/ML Engineer
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Madhxavvv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Madhxavvv&show_icons=true&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Madhxavvv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Madhxavvv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Madhxavvv&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
