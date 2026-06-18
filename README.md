@@ -12,16 +12,6 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Madhxavvv&show_icons=true&count_private=true&theme=tokyonight)<br/>
 ![](https://streak-stats.demolab.com/?user=Madhxavvv&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-<h2 align="center">Top Languages</h2>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-<img src="./profile/top-langs.svg" alt="Top Languages">
-</a>
-</p>
-
-<!--h2 align="center">Weekly Top Languages</h2>
-<p-- align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juletxara&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly%20Top%20Languages" alt="Weekly Top Languages" /></a></p-->
 
 
 ## 🏆 GitHub Trophies
