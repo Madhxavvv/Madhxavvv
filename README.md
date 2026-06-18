@@ -23,7 +23,7 @@ Current Learning Repo : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARN
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Madhxavvv&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Madhxavvv's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Madhxavvv)
 
 
 
